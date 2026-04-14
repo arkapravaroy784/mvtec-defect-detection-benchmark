@@ -18,7 +18,7 @@ across industrial object categories with varying texture complexity.
 | Category   | ROC–AUC |
 |------------|---------|
 | Bottle     | ~0.92   |
-| Metal Nut  | ~0.65   |
+| Metal Nut  | ~0.67   |
 | Zipper     | ~0.58   |
 
 ## Key Insights
